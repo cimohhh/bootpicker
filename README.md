@@ -1,3 +1,6 @@
+As of 10/09/26 i will no longer be adding anything to this project, it is very customizable if you know how to configure it to work for your specific system.
+
+
 # bootpicker
 
 this project is a custom graphical **UEFI boot picker** for dual-booting **Arch Linux and Windows 11**, built in C++ with EDK II.
