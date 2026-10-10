@@ -4,10 +4,6 @@ this project is a custom graphical **UEFI boot picker** for dual-booting **Arch 
 
 bootpicker runs before either operating system starts and provides a simple keyboard controlled graphical menu for choosing which OS to boot.
 
-![Arch Linux selected](BootPicker/Assets/ArchSelectedFinal.png)
-
-![Windows 11 selected](BootPicker/Assets/WindowsSelectedFinal.png)
-
 ## features
 
 - native UEFI application
@@ -247,6 +243,10 @@ once installed, create a UEFI firmware boot entry pointing to:
 ```text
 \EFI\BootPicker\BootPicker.efi
 ```
+
+![Arch Linux selected](BootPicker/Assets/ArchSelectedFinal.png)
+
+![Windows 11 selected](BootPicker/Assets/WindowsSelectedFinal.png)
 
 ## how it works
 
