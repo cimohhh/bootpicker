@@ -197,11 +197,6 @@ once installed, create a UEFI firmware boot entry pointing to:
 ```text
 \EFI\BootPicker\BootPicker.efi
 ```
-
-![Arch Linux selected](BootPicker/Assets/ArchSelectedFinal.png)
-
-![Windows 11 selected](BootPicker/Assets/WindowsSelectedFinal.png)
-
 HOW IT WORKS - bootpicker uses the UEFI graphics output protocol to display the graphical menu.
 
 at startup it:
